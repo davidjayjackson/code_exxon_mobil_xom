@@ -10,7 +10,8 @@ Daily stock price data for Exxon Mobil Corporation (NYSE: XOM), covering
   filled in by carrying forward the prior trading day's Close and Volume. The
   final 30 dates (2026-06-06 through 2026-07-05) have blank Close/Volume
   values.
-- `xom_us_d.ods` — LibreOffice Calc spreadsheet generated from the CSV.
+- `xom_us_d.ods` — LibreOffice Calc spreadsheet generated from the CSV,
+  including line charts plotting Close and Volume over time.
 
 ## Columns
 
